@@ -1,0 +1,19 @@
+body{
+    background-color:darkslateblue
+}
+
+
+h1{
+    color:white;
+    text-align: center;
+   
+}
+
+h3 {
+    color:white;
+    text-align: center;
+    background:deepskyblue;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+}
